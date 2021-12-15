@@ -26,6 +26,12 @@
   width: 8rem;
   margin: 1rem;
 }
+
+.mockup img {
+  height: 180px;
+  padding: 0.5rem;
+  margin-left: 5rem;
+}
 .attribution {
   font-size: 11px;
   text-align: center;
