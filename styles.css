@@ -28,9 +28,30 @@
 }
 
 .mockup img {
-  height: 180px;
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  width: 300px;
   padding: 0.5rem;
-  margin-left: 5rem;
+  margin-left: 2rem;
+}
+
+h2 {
+  color: whitesmoke;
+  text-align: center;
+  margin: 1em;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+p {
+  color: whitesmoke;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  margin: 0 1em;
+  line-height: 1.5;
+  text-align: center;
 }
 .attribution {
   font-size: 11px;
